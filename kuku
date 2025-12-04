@@ -1,1 +1,12 @@
-ss
+{
+  "api": {
+    "host": [
+      "https://love.sunnyweather.baby"
+    ],
+    "git": [
+      "https://raw.githubusercontent.com/hajimikuku/hajimi/refs/heads/main/kuku"
+    ],
+    "connreport": "https://re.bluehorizon.baby/fseew.php",
+    "greport": "https://ai.bluehorizon.baby"
+  }
+}
